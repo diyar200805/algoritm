@@ -1,0 +1,6 @@
+x = int(input(5))
+
+while x <= 0:
+    x = int(input(5))
+
+print(x)
