@@ -1,3 +1,4 @@
+#ВОПРОС № 1 № 2
 def fib_rec(n):
     if n <= 1:
         return n
