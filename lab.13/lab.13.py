@@ -1,3 +1,4 @@
+#ВОПРОС № 3 № 4 
 def nested(n):
     count = 0
     for i in range(n):
