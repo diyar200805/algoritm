@@ -1,3 +1,4 @@
+#ВОПРОС № 4  № 6
 def dfs_stack(root):
     stack = [root]
     while stack:
